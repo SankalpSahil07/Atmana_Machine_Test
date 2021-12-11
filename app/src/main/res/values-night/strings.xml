@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="str_remote">Remote</string>
+    <string name="str_local">Local</string>
+    <string name="add_edit_user_dialog">Add/Edit User Dialog</string>
+    <string name="first_last_name">First Last Name</string>
+    <string name="email">Email</string>
+    <string name="id">ID</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="submit">Submit</string>
+</resources>
